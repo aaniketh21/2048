@@ -19,9 +19,10 @@ Other notable contributors:
 
 That screenshot is fake, I never reached 2048 
 
+## special thank you
+https://github.com/gabrielecirulli
 
 
-## License
 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
 
 Thankyou
